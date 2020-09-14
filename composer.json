@@ -1,0 +1,14 @@
+{
+    "name": "f3desha/hash-compare-package",
+    "description": "Compares your files",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Alexander Kuzmenko",
+            "email": "kuzmenko@singree.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
