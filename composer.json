@@ -10,10 +10,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "autoload": {
-      "psr-4": {
-        "HashCompare\\": "vendor/f3desha/hash-compare-package"
-      }
-    },
     "require": {}
 }
