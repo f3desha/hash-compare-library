@@ -10,7 +10,7 @@ class HashWorker {
 	const CACHE_FILE_LOCATION_RELATIVELY_TO_ROOT = '/vendor/f3desha/hash-compare-package/cache/hashes_etalon.txt';
 
 	//Dont change
-	const ROOT_PATH_RELATIVELY_TO_WORKER = '../../../';
+	const ROOT_PATH_RELATIVELY_TO_WORKER = '../../../../';
 	
 	//Setup the config of the folders you want to track
 	public static function getconfig(){
