@@ -7,7 +7,7 @@ class HashWorker {
 	const PROJECT_FOLDER_NAME = 'hash-compare-system-project';
 	
 	//Cache file path and name
-	const CACHE_FILE_LOCATION_RELATIVELY_TO_ROOT = '/vendor/hash-compare-package/cache/hashes_etalon.txt';
+	const CACHE_FILE_LOCATION_RELATIVELY_TO_ROOT = '/vendor/f3desha/hash-compare-package/cache/hashes_etalon.txt';
 
 	//Dont change
 	const ROOT_PATH_RELATIVELY_TO_WORKER = '../../../';
