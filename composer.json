@@ -9,7 +9,5 @@
             "email": "kuzmenko@singree.com"
         }
     ],
-     "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {}
 }
