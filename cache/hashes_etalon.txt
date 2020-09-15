@@ -1,6 +1,0 @@
-/public/index.html|0d60c74d2c8b7e7ad1961c458fe14e76
-/public/fonts/font_b/font_b_regular.txt|aef4c2aa4948b789a7d79037c5a30a82
-/public/fonts/font_b/font_b_bold.txt|4a359c04ff0ebb243aa04866e7e16e58
-/public/fonts/font_a/font_a_bold.txt|4a359c04ff0ebb243aa04866e7e16e58
-/public/fonts/font_a/font_a_regular.txt|aef4c2aa4948b789a7d79037c5a30a82
-/public/fonts/font_a/font_a_italic.txt|90d897447326a6765eb0e2b90d0347fd
